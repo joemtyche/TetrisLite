@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\",
+  "WorkspaceRootPath": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{743E5DF2-7FA6-4395-B71A-3435837FC957}|TetrisGame.vcxproj|solutionrelative:colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "game.h",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.h",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.h",
               "RelativeDocumentMoniker": "game.h",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.h",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.h",
               "RelativeToolTip": "game.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-02T12:37:30.608Z",
               "EditorCaption": ""
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "block.h",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.h",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.h",
               "RelativeDocumentMoniker": "block.h",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.h",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.h",
               "RelativeToolTip": "block.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -77,22 +77,21 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "grid.h",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.h",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.h",
               "RelativeDocumentMoniker": "grid.h",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.h",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.h",
               "RelativeToolTip": "grid.h",
               "ViewState": "AgIAAAIAAAAAAAAAAADwvxQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T11:03:01.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T11:03:01.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "colors.h",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.h",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.h",
               "RelativeDocumentMoniker": "colors.h",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.h",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.h",
               "RelativeToolTip": "colors.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -108,61 +107,59 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "game.cpp",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.cpp",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.cpp",
               "RelativeDocumentMoniker": "game.cpp",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\game.cpp",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\game.cpp",
               "RelativeToolTip": "game.cpp",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwCoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-02T12:39:14.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\src\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-31T09:57:25.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "block.cpp",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.cpp",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.cpp",
               "RelativeDocumentMoniker": "block.cpp",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\block.cpp",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\block.cpp",
               "RelativeToolTip": "block.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T10:41:22.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T10:41:22.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "grid.cpp",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.cpp",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.cpp",
               "RelativeDocumentMoniker": "grid.cpp",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\grid.cpp",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\grid.cpp",
               "RelativeToolTip": "grid.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T11:03:23.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T11:03:23.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "colors.cpp",
-              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.cpp",
+              "DocumentMoniker": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.cpp",
               "RelativeDocumentMoniker": "colors.cpp",
-              "ToolTip": "C:\\Users\\jridp\\source\\repos\\Raylib-CPP-Starter-Template-for-VSCODE-V2\\colors.cpp",
+              "ToolTip": "C:\\Users\\jridp\\source\\repos\\TetrisLite\\colors.cpp",
               "RelativeToolTip": "colors.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

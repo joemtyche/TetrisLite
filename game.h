@@ -31,6 +31,7 @@ private:
 
 	double lastUpdateTime;
 	bool EventTriggered(double interval);
+	double speed;
 	
 	double gameStartTime;
 	double currentTime;

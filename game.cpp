@@ -15,6 +15,7 @@ Game::Game() {
 	font = LoadFontEx("Font/Tetris.ttf", 64, 0, 0);
 	gameStartTime = GetTime();
 	currentTime = 0;
+	speed = 0;
 }
 
 Block Game::GetRandomBlock() {
@@ -42,18 +43,26 @@ bool Game::EventTriggered(double interval) {
 
 void Game::UpdateEventInterval() {
 	if (gameOver) {
-		return;  
+		return;
 	}
 
 	double elapsedTime = GetTime() - gameStartTime;
-	double difficultyFactor = 1.0 + (elapsedTime / 60.0); // time based scaling
-	eventInterval = 1 * difficultyFactor;
 
-	if (score > 0) { // score based scaling
-		eventInterval *= pow(1.01, score / 100); // 1% speed for every 100 points
+	// Time-based scaling from 1 to 100
+	double minSpeed = 1.0;  
+	double maxSpeed = 100.0;  
+	double difficultyFactor = elapsedTime / 1200.0;  
+
+	speed = minSpeed + (maxSpeed - minSpeed) * std::min(1.0, difficultyFactor); // Scale between 1 and 100
+
+	eventInterval = 1.0 / speed; 
+
+	// Score-based scaling
+	if (score > 0) {
+		eventInterval *= pow(0.995, score / 100); // 1% speed increase for every 100 points
 	}
 
-	if (eventInterval < 0.05) { // maximum speed
+	if (eventInterval < 0.05) {
 		eventInterval = 0.05; 
 	}
 }
@@ -133,7 +142,7 @@ void Game::DrawSpeed() {
 	DrawRectangleRounded({ 12, 535, 170, 60 }, 0.4, 6, gray);
 
 	char multText[10];
-	sprintf(multText, "%.2f", eventInterval);
+	sprintf(multText, "%.2f", speed);
 	Vector2 textSize = MeasureTextEx(font, multText, 25, 2);
 	DrawTextEx(font, multText, { 57 + (75 - textSize.x) / 2, 555 }, 25, 2, WHITE);
 }
@@ -162,17 +171,17 @@ void Game::HandleInput() {
 
 	if (IsKeyDown(KEY_LEFT)) {
 		MoveBlockLeft();
-		moveCooldown = 10;
+		moveCooldown = 5;
 	}
 
 	if (IsKeyDown(KEY_RIGHT)) {
 		MoveBlockRight();
-		moveCooldown = 10;
+		moveCooldown = 5;
 	}
 
 	if (IsKeyDown(KEY_UP)) {
 		RotateBlock();
-		moveCooldown = 10;
+		moveCooldown = 7;
 	}
 
 	if (IsKeyDown(KEY_DOWN)) {
@@ -295,6 +304,7 @@ void Game::Reset(){
 	score = 0;
 	gameStartTime = GetTime(); // reset time
 	eventInterval = 1;
+	speed = 0;
 }
 
 void Game::UpdateScore(int linesCleared, int moveDownPoints){

@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\jridp\source\repos\Raylib-CPP-Starter-Template-for-VSCODE-V2\x64\Debug\TetrisGame.exe</FullPath>
+      <FullPath>C:\Users\jridp\source\repos\TetrisLite\x64\Debug\TetrisGame.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

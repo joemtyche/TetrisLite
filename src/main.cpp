@@ -2,6 +2,10 @@
 #include "../game.h"
 #include <iostream>
 
+
+// issues:
+// speed not increasing
+
 int main() {
     
     InitWindow(500, 615, "Tetris Lite");
