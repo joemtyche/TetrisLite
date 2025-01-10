@@ -1,0 +1,3 @@
+C:\Users\jridp\source\repos\Raylib-CPP-Starter-Template-for-VSCODE-V2\x64\Debug\raylib.dll
+C:\Users\jridp\source\repos\Raylib-CPP-Starter-Template-for-VSCODE-V2\x64\Debug\glfw3.dll
+C:\Users\jridp\source\repos\Raylib-CPP-Starter-Template-for-VSCODE-V2\TetrisGame\x64\Debug\TetrisGa.2FB70A14.Up2Date
